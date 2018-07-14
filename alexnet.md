@@ -13,9 +13,9 @@ Using Dataset
 
 ## Tip & Trick
 
-| TT | for What |
-|---|---|
-|   |   |
+| TT | for What | others |
+|---|---|---|
+| Relu | faster train / *training deeper network | [Relu](), [Relu_maht]() |
 |   |   |
 |   |   |
 
